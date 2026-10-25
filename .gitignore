@@ -1,2 +1,2 @@
-# Written by Claude Code each time it loads the mod for development
-.claude-plugin/types/
+# Written by Claude Code each time it loads a mod for development
+*/.claude-plugin/types/
