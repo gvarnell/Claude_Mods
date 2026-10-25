@@ -1,0 +1,9 @@
+{
+  "name": "all-prompts",
+  "version": "0.1.0",
+  "description": "A side pane listing your prompts from every Claude Code session, newest first, with the session each was typed in",
+  "author": { "name": "Greg Varnell" },
+  "license": "MIT",
+  "keywords": ["prompts", "history", "sessions", "pane"],
+  "types": "./types/index.d.ts"
+}

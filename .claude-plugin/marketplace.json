@@ -1,0 +1,13 @@
+{
+  "name": "all-prompts",
+  "description": "Claude Code mod: a side column of your prompts from every session",
+  "owner": {
+    "name": "Greg Varnell"
+  },
+  "plugins": [
+    {
+      "name": "all-prompts",
+      "source": "./"
+    }
+  ]
+}
