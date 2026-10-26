@@ -1,0 +1,8 @@
+{
+  "name": "prompt-jump",
+  "version": "0.1.0",
+  "description": "option+k / option+j scroll the transcript to your previous / next prompt",
+  "author": { "name": "Greg Varnell" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

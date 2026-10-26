@@ -5,6 +5,7 @@ Mods for [Claude Code](https://claude.com/claude-code). Each folder is one mod.
 | Mod | What it does |
 | --- | --- |
 | [all-prompts](all-prompts/) | A column on the right listing your prompts from every Claude Code session, with the session each was typed in |
+| [prompt-jump](prompt-jump/) | option+k / option+j jump the transcript to your previous / next prompt (needs two keybindings; see its README) |
 
 ## Install
 

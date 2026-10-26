@@ -9,6 +9,11 @@
       "name": "all-prompts",
       "description": "A side column of your prompts from every Claude Code session",
       "source": "./all-prompts"
+    },
+    {
+      "name": "prompt-jump",
+      "description": "option+k / option+j jump the transcript to your previous / next prompt",
+      "source": "./prompt-jump"
     }
   ]
 }
